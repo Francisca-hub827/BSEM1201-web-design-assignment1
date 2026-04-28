@@ -24,10 +24,10 @@ The webpage includes the following sections:
 - Footer
 
 ## Live Website
-https://francisca-hub827.github.io/web-design-assignment1/
+ https://francisca-hub827.github.io/BSEM1201-web-design-assignment1/
 
 ## Repository Link
-https://github.com/Francisca-hub827/web-design-assignment1
+https://github.com/Francisca-hub827/BSEM1201-web-design-assignment1
 
 ## Author
 Francisca Kabina  
